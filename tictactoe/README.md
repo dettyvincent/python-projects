@@ -4,6 +4,9 @@ In this project I am creating a Tic Tac Toe game using Python in Jupiter environ
 *	The board should be printed out every time a player makes a move
 *	You should be able to accept input of the player position and then place a symbol on the board.
 
+## Requirements:
+Jupyter Notebook
+
 ## Step 1: 
 Write a function that can print out a board. Set up your board as a list, where each index 1-9 corresponds with a number on a number pad, so you get a 3 by 3 board representation.
 **display_board(board)**
