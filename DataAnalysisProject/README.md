@@ -29,7 +29,7 @@ Out of these objects, below [functions](https://github.com/dettyvincent/python-p
 - Freethrowaccuracyplot() - Plot accuracy of free throws for the given list of players. Use square marker and dashed line.
 - Playerplayingstyle() - Plot Player playing style. For this, calculate points per field goals excluding free throws. Each free throw worth 1 point
 
-[Here](https://github.com/dettyvincent/python-projects/blob/main/DataAnalysisProject/IntegratedAnalysis.ipynb) is the integrated analysis of the data.
+[Here](https://github.com/dettyvincent/python-projects/blob/main/DataAnalysisProject/FinalOutput.ipynb) is the integrated analysis of the data.
 
 ## [Insights](https://github.com/dettyvincent/python-projects/blob/main/DataAnalysisProject/Insights.ipynb):
 
